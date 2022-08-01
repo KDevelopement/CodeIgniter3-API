@@ -16,6 +16,8 @@ This extension is powered by `K Seven`.
 * `\application\config\jwt.php`
 * [PHP-JWT](https://github.com/firebase/php-jwt) Library `\application\third_party\php-jwt\`
 
+[Change Log](changelog.md)
+
 ## Installation
 
 You can install this project into your PC using [composer]().
