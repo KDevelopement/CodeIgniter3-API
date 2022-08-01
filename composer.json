@@ -1,0 +1,32 @@
+{
+	"description": "CodeIgniter API Controller",
+	"name": "k7brasil/codeigniter3-api",
+	"homepage": "https://github.com/k7brasil/CodeIgniter3-API",
+	"type": "project",
+	"keywords": ["CodeIgniter", "Rest", "Api", "Rest Api", "CodeIgniter Rest", "CodeIgniter Rest Api"],
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "K7",
+			"homepage": "https://github.com/k7brasil",
+			"email": "anjsuporte@gmail.com",
+            "role": "Author"
+        },
+        {
+            "name": "Community",
+            "homepage": "https://github.com/k7brasil/CodeIgniter3-API/graphs/contributors"
+        }
+    ],
+	"support": {
+		"source": "https://github.com/k7brasil/CodeIgniter3-API",
+		"issues": "https://github.com/k7brasil/CodeIgniter3-API/issues",
+		"video": "https://www.youtube.com/channel/NotFount"
+	},
+	"require": {
+		"php": ">=5.6"
+	},
+	"prefer-stable": true,
+	"config": {
+        "sort-packages": true
+    }
+}
