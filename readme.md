@@ -1,4 +1,4 @@
-# CodeIgniter API Controller v.1.1.7
+# CodeIgniter API Controller v.1.1.8
 
 This extension is powered by `K Seven`.
 
