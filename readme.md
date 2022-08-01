@@ -28,6 +28,10 @@ The recommended way to install composer packages is:
 composer create-project k7brasil/codeigniter3-api
 ```
 
+## Postman (Test)
+
+<a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=pt-br" target="_Blank">chrome web store </a> ou <a href="https://www.postman.com/downloads/" target="_Blank">Install In PC</a>
+
 ## Requirements
 
 1. PHP 5.4 or greater
@@ -35,11 +39,7 @@ composer create-project k7brasil/codeigniter3-api
 
 Note: The library is used in CodeIgniter v3.8 and PHP 5.6.8.
 
-## DEMO
-
-> http://codeigniter-api.speedtyping.in/api/user/login
-
-Simple API
+## Simple API
 
 ```php
 header("Access-Control-Allow-Origin: *");
