@@ -25,7 +25,7 @@ You can install this project into your PC using [composer]().
 The recommended way to install composer packages is:
 
 ```
-composer require k7brasil/codeigniter-api:dev-master --prefer-source
+composer create-project k7brasil/codeigniter3-api
 ```
 
 ## Requirements
@@ -123,7 +123,7 @@ $config['api_limit_table_name'] = 'api_limit';
 /**
  * Set API Timezone 
  */
-$config['api_timezone'] = 'Asia/Kolkata';
+$config['api_timezone'] = 'America/Sao_Paulo';
 ```
 Now we can use API Limit Method.
 
