@@ -1,5 +1,9 @@
-
 ## Porting Progress
+
+### `v1.1.8`
+
+* Update CodeIgniter `3.1.13`
+* `Fix BUG` in API
 
 ### `v1.1.7`
 
