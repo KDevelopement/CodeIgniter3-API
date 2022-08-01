@@ -129,4 +129,4 @@ public function view()
 
 ## Reporting Issues
 
-If you have a problem with this plugin or found any bug, please open an issue on [GitHub](https://github.com/jeevan15498/CodeIgniter-API-Controller/issues).
+If you have a problem with this plugin or found any bug, please open an issue on [GitHub](https://github.com/k7brasil/CodeIgniter3-API/issues).
