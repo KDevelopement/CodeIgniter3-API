@@ -30,7 +30,7 @@ composer create-project k7brasil/codeigniter3-api
 
 ## Postman (Test)
 
-<a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=pt-br" target="_Blank">chrome web store </a> ou <a href="https://www.postman.com/downloads/" target="_Blank">Install In PC</a>
+<a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=pt-br" target="_Blank">chrome web store </a> ou <a href="https://www.postman.com/downloads/" target="_Blank">Install In PC (Recommended)</a>
 
 ## Requirements
 
